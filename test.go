@@ -3,7 +3,9 @@ package main
 import "fmt"
 
 func test() {
-	fmt.Println("test")
+	a := 1
+	a++
+	fmt.Println("test", "hello")
 }
 
 func test1() {
