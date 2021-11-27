@@ -14,5 +14,5 @@ func test1() {
 
 func main() {
 	a := 1
-	fmt.Println("vim-go", a)
+	fmt.Println("vim-go", a, "hello")
 }
