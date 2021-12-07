@@ -5,7 +5,7 @@ import "fmt"
 func test() {
 	a := 1
 	a++
-	fmt.Println("test", "helloxxx")
+	fmt.Println("test", "helloxxxyyy")
 }
 
 func test1() {
@@ -14,5 +14,5 @@ func test1() {
 
 func main() {
 	a := 1
-	fmt.Println("vim-go", a)
+	fmt.Println("vim-go", a, "hello")
 }
