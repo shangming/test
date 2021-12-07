@@ -5,7 +5,7 @@ import "fmt"
 func test() {
 	a := 1
 	a++
-	fmt.Println("test", "aaa")
+	fmt.Println("test", "aaaccc")
 }
 
 func test1() {
